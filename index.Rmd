@@ -1,0 +1,32 @@
+---
+title: "Resampling statistics"
+description: "Resampling statistics"
+url: 'https://resampling-stats.github.io/resampling-with'
+---
+
+There are two variants of this book; one with examples in the Python
+programming language, and another with examples in the R language.
+
+## Third edition
+
+### Resampling with Python
+
+* [Python website](edition-3-python/index.html).
+* [Python PDF](edition-3-python/resampling-with-python.pdf).
+
+### Resampling with R
+
+* [R website](edition-3-r/index.html).
+* [R PDF](edition-3-r/resampling-with-r.pdf).
+
+## Latest work-in-progress
+
+### Resampling with Python
+
+* [Python website](latest-python/index.html).
+* [Python PDF](latest-python/resampling-with-python.pdf).
+
+### Resampling with R
+
+* [R website](latest-r/index.html).
+* [R PDF](latest-r/resampling-with-r.pdf).
